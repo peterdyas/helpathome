@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-helpathome-dev-220354-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934052333510:role/amplify-helpathome-dev-220354-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934052333510:role/amplify-helpathome-dev-220354-authRole",
+      "Region": "me-south-1",
+      "DeploymentBucketName": "amplify-helpathome-dev-220354-deployment",
+      "UnauthRoleName": "amplify-helpathome-dev-220354-unauthRole",
+      "StackName": "amplify-helpathome-dev-220354",
+      "StackId": "arn:aws:cloudformation:me-south-1:934052333510:stack/amplify-helpathome-dev-220354/1a1124c0-b212-11ed-84c7-0e24bb14d17a",
+      "AmplifyAppId": "d8qjarz2mz4q0"
+    },
+    "categories": {
+      "auth": {
+        "helpathome73ea7209": {}
+      }
+    }
+  }
+}
